@@ -1,0 +1,1500 @@
+# Formen, die gültige Extrawörter bleiben, aber nie Zielwörter werden (Zielwort = das Spiel *verlangt*
+# das Wort). Format: Steinschreibung (ohne Akzent, ñ bleibt)  # Grund
+# Jede Entscheidung steht auch in kuratierung.tsv.
+
+# --- Doppelgänger mit tabuisierter Bedeutung in einem Teil der spanischsprachigen Welt (vor der
+# Kuratierung gesetzt; ein Buch für Spanien und Lateinamerika, RESEARCH-Sprachen §5)
+coger         # „nehmen“ in Spanien, vulgär „ficken“ in Mexiko, Argentinien, Uruguay, Venezuela …
+cogido        # Form von coger
+cogio         # Form von coger
+coge          # Form von coger
+cojo          # Form von coger (auch „hinkend“)
+concha        # „Muschel“, vulgär „Vulva“ in Argentinien, Uruguay, Chile, Peru
+conchas       # Form von concha
+pico          # „Schnabel, Gipfel“, vulgär „Penis“ in Chile
+picos         # Form von pico
+polla         # „Junghenne“, vulgär „Penis“ in Spanien
+pollas        # Form von polla
+bicho         # „Tier, Käfer“, vulgär „Penis“ in Puerto Rico, Venezuela
+bichos        # Form von bicho
+pija          # „schnöselig“ (Spanien), vulgär „Penis“ in Argentinien, Uruguay
+pijo          # dito
+chucha        # vulgär „Vulva“ (Chile, Peru, Ecuador, Panama)
+cajeta        # „Milchkaramell“ (Mexiko), vulgär „Vulva“ in Argentinien
+panocha       # „Maiskolben“, vulgär „Vulva“ in Mexiko
+papaya        # Frucht, vulgär „Vulva“ in Kuba, Venezuela
+chocho        # „Lupine“, vulgär „Vulva“ in Spanien
+chocha        # „Waldschnepfe“, vulgär in mehreren Ländern
+cuca          # vulgär in Venezuela, Kolumbien
+pito          # „Pfeife“ (Lateinamerika), vulgär „Penis“ in Spanien und Lateinamerika
+pinche        # „Küchenhilfe“ (Spanien), vulgäres Schimpfwort in Mexiko
+arrecho       # „wütend“ (Kolumbien), „geil“ in Mittelamerika und Peru
+chimba        # vulgär in Kolumbien
+cachar        # „verstehen“ (Chile), vulgär „ficken“ in Peru, Mittelamerika
+concho        # Form/Doppelgänger von concha
+pajero        # vulgär „Wichser“ (Spanien, Argentinien)
+cagar         # vulgär „scheißen“
+culo          # vulgär „Hintern“
+culos         # Form von culo
+teta          # vulgär „Brust“
+tetas         # Form von teta
+pene          # Anatomie, sexuell
+vagina        # Anatomie, sexuell
+sexo          # sexuell
+sexual        # sexuell
+carajo        # Fluch
+hostia        # Fluch in Spanien (auch Hostie)
+hostias       # Form von hostia
+mamar         # „saugen“, auch vulgär
+
+# --- Beleidigungen und abwertende Gruppenwörter (gültig, nie Ziel)
+pendejo       # starke Beleidigung (Mexiko), „Kind“ (Argentinien)
+boludo        # Beleidigung (Río de la Plata)
+huevon        # Beleidigung (Chile, Peru, Venezuela)
+gonorrea      # Krankheit, Beleidigung (Kolumbien)
+imbecil       # Beleidigung
+idiota        # Beleidigung
+estupido      # Beleidigung
+zorra         # „Füchsin“, Beleidigung „Hure“
+perra         # „Hündin“, Beleidigung
+perras        # Form von perra
+cabron        # „Ziegenbock“, starke Beleidigung (Spanien, Mexiko)
+mamon         # Beleidigung
+naco          # abwertend (Mexiko)
+cholo         # abwertend (Peru, Bolivien, Mexiko)
+indio         # in vielen Ländern abwertend gebraucht
+gitano        # oft abwertend
+gitana        # dito
+moro          # abwertend (Spanien)
+gringo        # abwertend
+gabacho       # abwertend (Franzosen in Spanien, US-Amerikaner in Mexiko)
+yanqui        # abwertend
+panchito      # Snack (Spanien), Schimpfwort für Lateinamerikaner
+tortillera    # „Tortilla-Bäckerin“, Schimpfwort für Lesben
+
+# --- Gewalt, Tod, Krankheit, Drogen (wie im Deutschen und Englischen streng)
+matar         # Gewalt
+mato          # Form von matar
+asesino       # Gewalt
+asesinato     # Gewalt
+guerra        # Krieg
+arma          # Waffe
+armas         # Waffen
+pistola       # Waffe
+bomba         # Waffe
+muerte        # Tod
+muerto        # Tod
+muerta        # Tod
+muertos       # Tod
+morir         # Tod
+cadaver       # Tod
+tumba         # Tod
+funeral       # Tod
+suicidio      # Tod
+violar        # Gewalt
+violacion     # Gewalt
+tortura       # Gewalt
+esclavo       # Sklaverei
+cancer        # Krankheit
+droga         # Drogen
+drogas        # Drogen
+cocaina       # Drogen
+heroina       # Drogen (auch Heldin)
+
+# --- Religion, Politik
+catolico      # Religion als Gruppe
+judio         # Religion als Gruppe
+musulman      # Religion als Gruppe
+islam         # Religion
+aborto        # politisch heikel
+nazi          # Politik
+fascista      # Politik
+terrorista    # Gewalt/Politik
+
+# --- Regionale Pronomen und Verbformen mit Pronomen, die über eine seltene Nebenlesart ins Ziel kämen
+vosotros      # nur Spanien (vosotros-Pronomen)
+vosotras      # nur Spanien
+dame          # „gib mir“ (dar + me); die Nomen-Lesart (Salsa-Figur) kennt niemand
+
+# --- Kuratierung Durchgang 1 (2026-11-19): jede Zielform des Baus geprüft (sechs Prüfer-Durchgänge mit
+# festem Prüfbogen, zusammengeführt und vereinheitlicht); Gründe auch in kuratierung.tsv
+abc           # Buchstabenfolge/Abkürzung
+abortar       # Abtreibung, heikles Thema
+abrirse       # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+abusar        # starke Konnotation sexueller Missbrauch
+abuso         # starke Konnotation sexueller Missbrauch
+abusos        # starke Konnotation sexueller Missbrauch (abusos sexuales)
+ace           # englisches Fremdwort (Tennis)
+acosador      # Belästigung/Stalking, unpassend für ruhiges Rätsel
+acoso         # (sexuelle) Belästigung, unpassend
+adan          # Eigenname (Adán)
+adiccion      # Sucht/Drogenkontext
+adicto        # Sucht/Drogenkontext
+adictos       # Sucht/Drogenkontext
+admin         # umgangssprachliche Abkürzung, Anglizismus
+adrian        # Eigenname (Adrián)
+afro          # selten, ethnisch konnotiert
+after         # englisches Fremdwort
+agonia        # Todeskampf
+agora         # archaisch (für ahora) / Fremdwort
+agredido      # Gewalt (Angegriffener)
+agredir       # Gewalt
+agresion      # Gewalt
+agresor       # Gewalt (Angreifer)
+aguilera      # fast nur Eigenname, selten
+agustin       # Eigenname (Agustín)
+ahogado       # Ertrunkener, Tod
+ahogar        # ertränken/ersticken, Tod
+ahorita       # nur Lateinamerika/Karibik (Spanien: ahora mismo)
+alcaide       # selten (Gefängnisdirektor/Burgvogt)
+alcazar       # selten, v. a. spanischer Eigenname
+ale           # englisches Fremdwort (Bier)
+alejarse      # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+alfa          # Buchstabenname
+alferez       # Militärrang, selten
+alguacil      # selten/veraltet (Amtsdiener)
+alicante      # Eigenname (Stadt)
+alien         # englisches Fremdwort
+allende       # gehoben/veraltet, Eigenname
+amador        # selten, v. a. Eigenname
+amateur       # Fremdwort (Französisch)
+amelia        # Eigenname
+amen          # religiöse Interjektion (amén)
+ami           # umgangssprachliche Kurzform/Fremdwort
+anal          # anatomisch/sexuell anstößig
+anales        # selten (Annalen), Plural von anal
+andorra       # Eigenname (Land)
+angelica      # v. a. Eigenname (Angélica)
+anglo         # selten
+ano           # After (anatomisch, anstößig)
+anormal       # als Beschimpfung abwertend (Spanien)
+anos          # Plural von ano (After), anstößig
+anteojos      # v. a. Lateinamerika (Spanien: gafas)
+anti          # Präfix, kein eigenständiges Wort
+anton         # Eigenname (Antón)
+antro         # abwertend, regional unterschiedlich (Mexiko: Disco), selten
+apa           # selten, regional
+apache        # Volksname/Eigenname
+apologia      # selten, v. a. juristisch (apología del delito)
+apoyarse      # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+app           # englisches Fremdwort
+apps          # englisches Fremdwort
+aprox         # Abkürzung
+ara           # selten (Altar/Ara-Papagei)
+aragones      # nur Spanien relevant, selten
+arana         # selten, v. a. Eigenname
+are           # seltene Verbform (arar), englisches Wort
+argel         # Eigenname (Algier), selten
+aria          # selten; auch Femininum von ario (arisch)
+arias         # v. a. Eigenname (Arias), selten
+armadas       # Militär (fuerzas armadas)
+armado        # bewaffnet, Waffen
+armados       # bewaffnet (grupos armados)
+arsenal       # Waffenlager
+asaltar       # Gewalt/Überfall
+asalto        # Gewalt/Überfall
+asedio        # Krieg (Belagerung)
+asesina       # Mord
+asesinar      # Mord
+asesinos      # Mord
+asfixia       # Ersticken, Tod
+asuncion      # v. a. Eigenname (Asunción), religiös
+atacama       # Eigenname
+ataud         # Sarg, Tod
+ate           # selten (mexikanische Süßigkeit/Verbform von atar), englisches Wort
+ateismo       # Religion als Gruppenidentität
+ateneo        # selten
+atentado      # Anschlag, Gewalt/Terror
+atentar       # Anschlag verüben, Gewalt
+ateo          # Religion als Gruppenidentität
+atocha        # Eigenname (Madrid), selten
+atraco        # Raubüberfall, Verbrechen
+augusto       # v. a. Eigenname
+autismo       # Diagnose, heikel
+autopsia      # Leichenöffnung, Tod
+autovia       # v. a. Spanien, selten
+aviles        # Eigenname
+ayacucho      # Eigenname
+baby          # englisches Fremdwort
+bacon         # Anglizismus, v. a. Spanien (LatAm: tocino)
+bajarse       # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+bala          # Kugel, Waffe
+balas         # Kugeln, Waffe
+balazo        # Schuss, Waffe
+balboa        # Eigenname/Währung
+ban           # Fremdwort/Währungseinheit, selten
+banana        # regional (Spanien: plátano), vulgär in Mittelamerika
+bang          # Onomatopoesie
+banner        # englisches Fremdwort
+barbie        # Markenname
+basarse       # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+basilio       # Eigenname
+basquet       # regional Lateinamerika (Spanien: baloncesto)
+bastardo      # Schimpfwort
+bat           # englisches Fremdwort
+batalla       # Krieg (Schlacht)
+batallas      # Krieg (Schlacht)
+batallon      # Militär
+bate          # in mehreren Ländern Lateinamerikas anstößig
+batista       # v. a. Eigenname, selten
+bautista      # Eigenname/Konfession
+baza          # selten (Kartenspiel-Stich)
+bañarse       # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+becerra       # selten, v. a. Eigenname
+bel           # Maßeinheit, selten
+belen         # v. a. Eigenname (Belén); Krippe nur in Spanien so
+belico        # Krieg
+benito        # Eigenname
+benjamin      # Eigenname (Benjamín)
+beta          # Buchstabenname
+bin           # Fremdwort/fachsprachlich
+bipolar       # psychiatrische Diagnose, auch als Beleidigung
+birra         # umgangssprachlich, regional (Spanien/Río de la Plata)
+bisexual      # Sexualität
+bit           # englisches Fremdwort, fachsprachlich
+bitcoin       # Fremdwort/Markenname
+bla           # Onomatopoesie/Interjektion
+blas          # Eigenname/Onomatopoesie
+blogs         # englisches Fremdwort
+blues         # englisches Fremdwort
+bob           # Fremdwort/Eigenname
+bol           # v. a. Spanien (Lateinamerika: tazón)
+boleta        # nur Lateinamerika (Spanien: papeleta/recibo)
+boliche       # regional mit wechselnder Bedeutung
+bolivar       # Eigenname/Währung
+bombas        # Bomben, Waffe
+bonus         # Fremdwort
+boom          # Fremdwort/Onomatopoesie
+borbon        # Eigenname
+boricua       # nur Puerto Rico
+borracha      # Trunkenheit (Alkohol)
+borracho      # Trunkenheit (Alkohol)
+bosta         # regional (Río de la Plata), derb
+bot           # englisches Fremdwort
+box           # englisches Fremdwort
+boy           # englisches Fremdwort (Stripper)
+boys          # englisches Fremdwort (Stripper)
+braga         # Unterwäsche, nur Spanien (LatAm: calzones/bombacha)
+bragas        # Unterwäsche, nur Spanien
+brasil        # Eigenname
+break         # englisches Fremdwort
+brexit        # Eigenname/Fremdwort
+bridge        # englisches Fremdwort
+british       # englisches Fremdwort
+brother       # englisches Fremdwort
+bruno         # Eigenname
+buda          # Eigenname (Buddha)
+budismo       # Religion als Gruppenidentität
+budista       # Religion als Gruppenidentität
+bue           # umgangssprachlich Mexiko
+buffet        # Fremdwort (Spanisch: bufé)
+bug           # englisches Fremdwort
+bula          # selten, kirchlich
+bullying      # englisches Fremdwort
+bunker        # Fremdwort, Militär
+burdeos       # Eigenname, selten
+burgos        # Eigenname (Stadt)
+burlarse      # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+buro          # regional Mexiko, selten
+buscarla      # Verb + Klitikon
+bye           # englisches Fremdwort
+cabaret       # Fremdwort, selten
+cabezon       # abwertend, in Chile anstößig
+cabrones      # Beleidigung (Plural von cabrón, das gültig bleibt)
+caca          # derb/Fäkalwort
+cache         # Fremdwort, in mehreren Ländern anstößig
+cacho         # regional, in Argentinien/Chile/Peru anstößig
+caerse        # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+cagado        # vulgär (cagar), in vielen Ländern anstößig
+calavera      # Totenschädel, Tod
+calderon      # v. a. Eigenname
+caleta        # regional (Chile, dort Slang), selten
+callao        # Eigenname
+callate       # Verb + Klitikon (cállate)
+calzones      # Unterwäsche, regional unterschiedlich
+camila        # Eigenname
+camilo        # Eigenname
+camping       # englisches Fremdwort
+can           # gehoben/selten (Hund), englisches Wort
+canarias      # Eigenname (Kanarische Inseln)
+cannabis      # Droge
+cao           # regional (Karibik), selten
+capita        # nur in „per cápita“, Latinismus
+capo          # Mafiaboss; capó nur Spanien
+capullo       # vulgär/Schimpfwort in Spanien
+carajos       # Fluch
+caray         # Interjektion
+carcel        # Gefängnis, heikel
+carceles      # Gefängnis, heikel
+caribe        # v. a. Eigenname (el Caribe)
+carlitos      # Eigenname
+carlota       # Eigenname
+carmelo       # Eigenname
+carmen        # Eigenname
+carmona       # Eigenname
+carnal        # sexuell konnotiert; Mexiko-Slang (Bruder)
+carolina      # Eigenname
+carrasco      # v. a. Eigenname
+carrillo      # v. a. Eigenname, Wange nur selten
+carrion       # Eigenname
+carro         # Auto nur Lateinamerika (Spanien: coche)
+carros        # Auto nur Lateinamerika (Spanien: coches)
+cas           # selten
+casacion      # juristisch
+casanova      # Eigenname
+casarse       # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+cash          # englisches Fremdwort
+cast          # englisches Fremdwort
+castilla      # Eigenname
+casting       # englisches Fremdwort
+castro        # v. a. Eigenname
+catalina      # v.a. Eigenname (Catalina); Bedeutung Tretlager fachsprachlich
+catolica      # Religion als Gruppenidentität
+caudillo      # politisch belastet (Diktator, Franco)
+cañete        # Eigenname (Ortsname), Pflanzenbedeutung zu selten
+cecilia       # Eigenname; Tierbedeutung zu selten/fachsprachlich
+cel           # umgangssprachliche Kurzform, nur Lateinamerika
+celu          # umgangssprachliche Kurzform, nur Lateinamerika
+celular       # nur Lateinamerika (Spanien: móvil)
+center        # englisches Fremdwort
+ceo           # Abkürzung/Anglizismus
+cesarea       # medizinisch (Kaiserschnitt), auch Eigenname
+chaco         # Eigenname (Chaco), regional
+chad          # Eigenname (Tschad), Slangbedeutung sexuell
+chance        # Fremdwort, v.a. Lateinamerika (Spanien: oportunidad)
+chanel        # Markenname
+chapo         # Interjektion/Gallizismus, Assoziation El Chapo
+chaqueta      # vulgär in Mexiko/Guatemala (Masturbation)
+charles       # Eigenname
+chaval        # nur Spanien
+chavismo      # Parteipolitik
+chavista      # Parteipolitik, abwertend
+chavo         # nur Mexiko/Mittelamerika
+chavos        # nur Mexiko (Geld/Jungs) bzw. seltene Pflanze
+che           # Interjektion (Río de la Plata)/Buchstabenname
+check         # englisches Fremdwort
+cherry        # englisches Fremdwort
+chi           # Buchstabenname/Fremdwort
+chic          # französisches Fremdwort
+chicha        # regional (Andengetränk), vulgär in Teilen Lateinamerikas
+chile         # vulgär in Mexiko/Mittelamerika (Penis); sonst Ländername
+chivo         # in Peru abwertend/anstößig
+chota         # vulgär in Argentinien/Uruguay/Mexiko
+choto         # vulgär in Argentinien/Río de la Plata
+chulo         # auch Zuhälter (Spanien), Bedeutung regional sehr verschieden
+chupa         # vulgär in mehreren Ländern; Lederjacke nur Spanien-Slang
+chusma        # abwertendes Gruppenwort
+cia           # Abkürzung (Cía./CIA)
+cianuro       # Gift (Tod)
+ciber         # zu selten, Kurzform
+cid           # Eigenname (El Cid)
+cinema        # selten (normal: cine), Fremdwortform
+cis           # Fachkürzel, selten
+cisco         # selten, v.a. Eigenname (Cisco)
+ciu           # Fremdwort/Abkürzung, selten
+claudia       # Eigenname
+clemente      # v.a. Eigenname; Adjektiv selten
+cloruro       # fachsprachlich (Chemie)
+closet        # nur Lateinamerika (Spanien: armario), Anglizismus
+cloud         # englisches Fremdwort
+coaccion      # juristisch, selten
+coach         # englisches Fremdwort
+coca          # Droge (Kokapflanze/Kokain), auch Marke
+code          # umgangssprachliche Kurzform für Codein (Droge)/Englisch
+cogiendo      # coger vulgär in Lateinamerika
+cole          # umgangssprachliche Kurzform
+colin         # Eigenname, Vogelbedeutung regional
+collado       # selten, v.a. Eigenname
+collage       # französisches Fremdwort
+colon         # v.a. Eigenname (Colón), sonst Währung/Organ
+columbia      # Eigenname
+comando       # militärisch/Terrorzelle
+comandos      # militärisch/Terrorzelle
+combate       # Kampf/Krieg
+combates      # Kampf/Krieg
+combo         # Anglizismus/regional (Chile: Faustschlag)
+comerse       # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+comodoro      # militärischer Rang, selten; auch Eigenname
+compa         # umgangssprachlich, nur Mexiko/Mittelamerika
+compu         # umgangssprachliche Kurzform, Lateinamerika
+condon        # Sexualbezug
+congo         # Eigenname (Kongo)
+cool          # englisches Fremdwort
+copado        # nur Río de la Plata (Slang)
+cope          # zu selten/fachsprachlich, auch Eigenname (COPE)
+cora          # zu selten, regional/historisch
+coran         # Religion, Eigenname (Koran)
+cordoba       # Eigenname (Stadt), Währung nur Nicaragua
+cordobes      # Herkunftswort einer Stadt, selten
+core          # englisches Fremdwort
+corea         # Eigenname (Korea); Chorea medizinisch
+cornejo       # zu selten, v.a. Eigenname
+corner        # Anglizismus, selten
+corpus        # Fachwort/Latein, auch Corpus Christi
+corrida       # Stierkampf (Gewalt) und vulgär (Ejakulation) in vielen Ländern
+corso         # selten (Korse / Umzug nur Río de la Plata)
+cortijo       # nur Andalusien
+coso          # regional (Río de la Plata „Ding“, Stierkampfarena)
+cosplay       # englisches Fremdwort
+cota          # selten/fachsprachlich (Höhenangabe, Kettenhemd)
+country       # englisches Fremdwort
+cover         # englisches Fremdwort
+crack         # Droge, Anglizismus
+crazy         # englisches Fremdwort
+creerse       # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+crimen        # Verbrechen/Mord (Gewalt)
+crimenes      # Verbrechen/Mord (Gewalt)
+criminal      # Verbrechen (Gewalt)
+cris          # Eigenname/Fremdwort (malaiischer Dolch)
+cristina      # Eigenname
+cristo        # Eigenname/religiöse Figur
+cross         # englisches Fremdwort
+cuba          # v.a. Eigenname (Kuba)
+cubrirse      # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+cuco          # vulgär in Mittelamerika/Kolumbien/Venezuela
+cuidarse      # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+cuidate       # Verb mit Klitikon (Imperativ cuídate)
+culata        # Waffe (Gewehrkolben)
+cum           # Latein/Anglizismus
+curro         # umgangssprachlich nur Spanien („Arbeit“), anstößig in Argentinien
+curry         # Fremdwort
+cusco         # Eigenname (Cusco), Hundebedeutung nur Mexiko
+cuzco         # Eigenname (Cuzco), Hundebedeutung nur Mexiko
+daga          # Waffe (Dolch)
+dai           # Ethnienname, selten
+dal           # Fremdwort, selten
+dale          # Verb mit Klitikon (Imperativ), auch Interjektion
+damasco       # regional (Aprikose in Teilen Lateinamerikas) bzw. Eigenname
+dana          # Abkürzung (DANA), nur Spanien
+darme         # Verb mit Klitikon
+darnos        # Verb mit Klitikon
+darse         # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+darte         # Verb mit Klitikon
+date          # Verb mit Klitikon (Imperativ da+te)
+deberse       # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+deceso        # Tod
+decirme       # Verb mit Klitikon
+decirnos      # Verb mit Klitikon
+decirse       # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+decirte       # Verb mit Klitikon
+dehesa        # nur Spanien (iberische Weidelandschaft)
+dejarme       # Verb mit Klitikon
+dejarnos      # Verb mit Klitikon
+dejarse       # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+dejarte       # Verb mit Klitikon
+dejate        # Verb mit Klitikon (Imperativ déjate)
+delfina       # selten, v.a. Eigenname
+demencia      # schwere Krankheit (Demenz)
+demo          # Kurzform/Anglizismus
+dengue        # schwere Krankheit
+depto         # Abkürzung, nur Argentinien
+desmadre      # umgangssprachlich/derb (v.a. Mexiko)
+desnuda       # Nacktheit, sexuelle Konnotation
+desnudez      # Nacktheit, sexuelle Konnotation
+desnudo       # Nacktheit, sexuelle Konnotation
+desnudos      # Nacktheit, sexuelle Konnotation
+desviado      # abwertende Nebenbedeutung (homophob), selten
+diabetes      # Krankheit
+diarrea       # unappetitliches Krankheitssymptom
+dictador      # politisch belastet (Diktatur)
+difunto       # Tod
+dime          # Verb mit Klitikon (Imperativ di+me)
+din           # umgangssprachlich, selten
+dina          # physikalische Einheit, selten; v.a. Eigenname
+dinamita      # Sprengstoff (Gewalt)
+dispara       # Schusswaffe (schießen)
+disparar      # Schusswaffe (schießen)
+disparo       # Schusswaffe (Schuss)
+disparos      # Schusswaffe (Schüsse)
+doc           # umgangssprachliche Kurzform
+domo          # v.a. Lateinamerika, selten (sonst cúpula)
+dong          # Fremdwort (Währung), vulgär im Englischen
+doquier       # veraltet/literarisch
+drag          # englisches Fremdwort
+drogado       # Drogen
+drop          # Fachwort Rugby, selten, Anglizismus
+duelo         # Trauer (Tod) bzw. Duell (Gewalt)
+durazno       # nur Lateinamerika (Spanien: melocotón)
+ebola         # schwere Krankheit, Eigenname
+echarse       # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+eden          # Eigenname (Garten Eden), selten
+edo           # Ethnienname/Abkürzung (Edo.)
+efe           # Buchstabenname, auch Eigenname (Agentur EFE)
+egresado      # v.a. Lateinamerika (Spanien: graduado/licenciado)
+ejido         # nur Mexiko
+electro       # selten/Kurzform
+elena         # Eigenname (Glosse: Guerilla ELN)
+elevador      # nur Lateinamerika (Spanien: ascensor)
+elle          # Buchstabenname
+email         # englisches Fremdwort
+emiliano      # selten, v.a. Eigenname
+emilio        # Eigenname; „E-Mail“-Scherzwort umgangssprachlich
+emir          # selten
+emo           # englisches Fremdwort (Subkultur)
+empero        # veraltet
+ene           # Buchstabenname
+enfado        # vorwiegend Spanien (Lateinamerika: enojo), selten
+enterrar      # Beerdigung/Tod
+entierro      # Beerdigung/Tod
+entres        # seltenes Kartenspielwort / Voseo-Form
+enzima        # zu fachsprachlich
+enzo          # Eigenname, Pflanzenname selten
+epidemia      # Seuche, passt nicht ins ruhige Rätsel
+erario        # zu selten/fachsprachlich
+ere           # Buchstabenname
+ereccion      # sexuell
+erotica       # sexuell
+erotico       # sexuell
+erotismo      # sexuell
+esclava       # Sklaverei, heikel
+esclavos      # Sklaverei, heikel
+escobar       # vor allem Eigenname, Verb nur Aragón
+escocia       # Eigenname (Schottland)
+escopeta      # Waffe
+escoria       # abwertend (Abschaum)
+escorial      # vor allem Eigenname, selten
+esperma       # sexuell
+espinar       # zu selten
+estais        # vosotros-Form
+estipula      # zu fachsprachlich (Botanik/juristisch)
+estrada       # vor allem Eigenname (Nachname)
+estupida      # Beleidigung
+eta           # griechischer Buchstabe / Eigenname (ETA)
+eva           # Eigenname
+evo           # Eigenname, sonst zu selten
+exhorto       # juristische Fachsprache
+expo          # Kurzwort, umgangssprachlich
+extasis       # auch Droge (Ecstasy)
+fabio         # Eigenname
+face          # englisches Wort
+facebook      # Markenname
+facha         # abwertend (Faschist, Spanien), umgangssprachlich
+facto         # lateinisch (de facto)
+facu          # Kurzwort, umgangssprachlich
+facundo       # vor allem Eigenname
+fajardo       # Eigenname
+falange       # Partei (Falange) / Fachwort Anatomie
+falcon        # Eigenname/Marke, Vogel heißt halcón
+fallecio      # Tod
+fang          # Sprachname, zu selten
+fascismo      # Parteipolitik
+fashion       # englisches Wort
+faso          # nur Río de la Plata, Marihuana
+fausto        # vor allem Eigenname
+fernet        # Markenlikör, vor allem Argentinien
+ferrari       # Markenname
+ferry         # englische Schreibung (spanisch: ferri)
+fetal         # medizinische Fachsprache
+feto          # Beleidigung in Spanien (hässlicher Mensch), heikel
+fez           # zu selten / Eigenname (Stadt)
+fierro        # Variante von hierro nur in Lateinamerika, vulgär in Argentinien
+fijarse       # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+fijate        # Imperativ mit Klitikon / Voseo
+film          # Fremdwort (spanisch: filme)
+finn          # Fremdwort, zu selten
+fit           # englisches Wort
+fitness       # englisches Wort
+flash         # englisches Wort
+flojera       # vor allem Lateinamerika (Spanien: pereza)
+flow          # englisches Wort
+folk          # englisches Wort
+foral         # nur Spanien, Rechtssprache
+forense       # Leichen/Kriminalistik
+formarse      # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+forro         # vulgär in Argentinien/Chile
+fosa          # auch Grab (fosa común)
+fragata       # Kriegsschiff
+fray          # Titel vor Ordensnamen, kein freies Wort
+freire        # zu selten / Eigenname
+friend        # englisches Wort
+frijol        # nur Lateinamerika (Spanien: judía, alubia)
+fulano        # fulana abwertend (Prostituierte)
+full          # englisches Wort
+funebre       # Beerdigung/Tod
+funk          # englisches Wort
+fusil         # Waffe
+gaga          # zu selten / Eigenname (Lady Gaga)
+gal           # physikalische Einheit, zu fachsprachlich
+galileo       # Eigenname
+game          # englisches Wort
+gamer         # englisches Wort
+gaming        # englisches Wort
+gamma         # griechischer Buchstabe
+ganarse       # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+gang          # englisches Wort
+garage        # Fremdschreibung (spanisch: garaje)
+garrido       # vor allem Nachname, Adjektiv veraltet
+garzon        # vor allem Nachname, Bedeutung Kellner nur regional
+gatillo       # Waffe (Abzug)
+gay           # Fremdwort, sexuelle Identität heikel
+gays          # Fremdwort, sexuelle Identität heikel
+gaza          # Eigenname (Gaza), sonst zu selten
+gene          # seltene Nebenform von gen
+genital       # sexuell
+genocida      # Gewalt (Völkermord)
+genova        # Eigenname
+geo           # Abkürzung (GEO)
+gif           # Abkürzung
+golden        # englisches Wort
+golpista      # Putsch, Politik/Gewalt
+gore          # englisches Wort, Gewaltgenre
+gourmet       # französisches Wort
+goya          # Eigenname
+graffiti      # Fremdschreibung (spanisch: grafiti)
+greco         # zu selten / Eigenname (El Greco)
+green         # englisches Wort
+grey          # kirchlich/veraltet, wirkt wie englisches Wort
+guaira        # zu selten
+guajira       # zu selten / regional (Kuba, Kolumbien)
+guau          # Lautmalerei/Interjektion
+guerras       # Krieg
+guerrera      # Krieg
+guinea        # Eigenname (Guinea)
+guita         # Slang (Geld), regional
+gym           # englisches Wort
+habana        # Eigenname (La Habana)
+haberme       # Verb mit Klitikon
+haberse       # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+haberte       # Verb mit Klitikon
+hablarme      # Verb mit Klitikon
+hablarte      # Verb mit Klitikon
+hacerme       # Verb mit Klitikon
+hacernos      # Verb mit Klitikon
+hacerse       # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+hacerte       # Verb mit Klitikon
+hackear       # Anglizismus, selten
+hacker        # englisches Wort
+hall          # englisches Wort
+hambruna      # Hungersnot, passt nicht ins ruhige Rätsel
+hard          # englisches Wort
+hardcore      # englisches Wort
+hardware      # englisches Wort
+hashtag       # englisches Wort
+hazte         # Imperativ mit Klitikon
+heavy         # englisches Wort
+heces         # Fäkalien
+heladera      # nur Río de la Plata (sonst nevera/refrigerador)
+helena        # Eigenname
+henry         # Eigenname, Einheit henrio selten
+hepatica      # zu fachsprachlich
+hercules      # Eigenname
+hermes        # Eigenname
+herpes        # Krankheit
+herrera       # vor allem Nachname
+hetero        # sexuelle Orientierung, umgangssprachlich
+hincha        # Fußballfan nur Spanien/Südamerika, vulgäre Wendungen (hinchar) in mehreren Ländern
+hinchada      # nur Südamerika, vulgäre Nebenbedeutung
+hinchas       # Fußballfan nur Spanien/Südamerika, vulgäre Wendungen in mehreren Ländern
+hindu         # Religion als Gruppenidentität
+hippie        # englisches Wort
+hit           # englisches Wort
+hobby         # englisches Wort
+holanda       # vor allem Eigenname
+homicida      # Mord/Gewalt
+homo          # abwertend (homosexuell)
+honda         # Schleuder (Waffe) / Markenname
+honduras      # Eigenname (Land)
+hope          # seltene Verbform, wirkt englisch
+horca         # Galgen, Tod
+hot           # englisches Wort
+house         # englisches Wort
+hub           # englisches Wort
+hueva         # vulgär in Mexiko/Chile/Peru
+ibex          # Eigenname (Börsenindex), Tierwort selten
+ibidem        # lateinisch
+idem          # lateinisch
+idiotas       # Beleidigung
+imputado      # Rechtssprache
+incesto       # sexuell
+india         # abwertendes Gruppenwort (india) / Eigenname
+indiana       # Eigenname, Stoffname selten
+indias        # abwertendes Gruppenwort / Eigenname
+indie         # englisches Wort
+indios        # abwertendes Gruppenwort
+infarto       # schwere Krankheit
+info          # Kurzwort, umgangssprachlich
+insulina      # medizinisch (Diabetes)
+inti          # zu selten / Eigenname
+intro         # Kurzwort, umgangssprachlich
+invadir       # Krieg/militärisch
+invasion      # Krieg/militärisch
+invasor       # Krieg/militärisch
+irlanda       # Eigenname (Irland)
+irme          # Verb+Klitikon
+irnos         # Verb+Klitikon
+irse          # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+irte          # Verb+Klitikon
+isa           # kanarischer Tanz, sonst Eigenname
+isidro        # Madrider Regionalwort, sonst Eigenname
+islamica      # Religion als Gruppenidentität
+islamico      # Religion als Gruppenidentität
+item          # Latinismus, selten/fachsprachlich
+jaja          # Lautmalerei/Interjektion
+jala          # jalar nur Lateinamerika; vulgäre Wendungen in Mexiko
+jam           # Fremdwort (Englisch)
+jamaica       # vor allem Eigenname; Getränk nur Mexiko/Mittelamerika
+japon         # Eigenname (Japón)
+jara          # regionaler Pflanzenname, in Mexiko Slang (Polizei)
+jazz          # Fremdwort (Schreibung)
+jean          # Anglizismus, nur Lateinamerika (Spanien: vaqueros)
+jeans         # Anglizismus, nur Lateinamerika (Spanien: vaqueros)
+jedi          # Eigenname/Fremdwort
+jeep          # Fremdwort/Marke
+jerez         # vor allem Ortsname; Getränk spanienlastig
+jeronimo      # Eigenname/Ordensname
+jersey        # nur Spanien (Lateinamerika: suéter)
+jesuita       # Religion als Gruppenidentität
+jesuitas      # Religion als Gruppenidentität
+jet           # Anglizismus
+jeta          # derb/abwertend, regional
+jorge         # Eigenname
+jota          # Buchstabenname; abwertend (joto) in Mexiko/Honduras
+juanita       # Eigenname; Käfername nur Argentinien
+juanito       # Eigenname; Käfername nur Chile
+judaismo      # Religion als Gruppenidentität
+judas         # Eigenname/religiös, Beleidigung
+judia         # Religion als Gruppenidentität
+judios        # Religion als Gruppenidentität
+jugo          # 'Saft' nur Lateinamerika (Spanien: zumo)
+juliana       # Eigenname; Küchenfachwort
+junior        # Anglizismus
+juntarse      # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+kill          # Fremdwort (Englisch)
+kremlin       # Eigenname
+kris          # zu selten
+lab           # Abkürzung/Anglizismus
+lacra         # abwertend für Personen
+lady          # Fremdwort (Englisch)
+lama          # selten; Bedeutung regional uneinheitlich
+land          # Fremdwort (Deutsch)
+lanzarse      # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+lao           # zu selten (Sprache Laos)
+lapida        # Grabstein (Tod)
+laptop        # Anglizismus, nur Lateinamerika (Spanien: portátil)
+lares         # zu selten/nur in Wendungen
+laura         # Eigenname
+lavarse       # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+led           # Abkürzung
+leerse        # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+lesbiana      # Sexualität, kein neutrales Register
+letal         # Tod/Gewalt
+leucemia      # schwere Krankheit
+lia           # selten; Eigenname
+librarse      # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+lic           # Abkürzung (Lic.)
+liceo         # Schule nur Lateinamerika (Spanien: instituto)
+liderato      # selten, spanienlastig (sonst liderazgo)
+lidia         # Stierkampf; Eigenname
+light         # Fremdwort (Englisch)
+liguilla      # selten, Sportfachwort mit regional verschiedener Bedeutung
+lil           # Lautmalerei/Fremdwort
+line          # Fremdwort (Englisch)
+link          # Anglizismus
+links         # Anglizismus
+lis           # zu selten (nur flor de lis)
+litigio       # juristische Fachsprache
+litio         # fachsprachlich (chemisches Element)
+liturgia      # religiöse Fachsprache, selten
+liza          # zu selten/archaisch
+llamarse      # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+llenarse      # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+llevarse      # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+loa           # zu selten/literarisch
+lobby         # Anglizismus
+locacion      # Anglizismus, nur Lateinamerika
+logia         # Freimaurer, selten
+lol           # Internet-Abkürzung
+lola          # Eigenname; Slang 'Brust/Mädchen' in Chile/Mexiko
+lolita        # sexuelle Konnotation; Eigenname
+look          # Anglizismus
+lord          # Fremdwort (Englisch)
+luche         # nur Chile (Alge)
+luis          # Eigenname
+lujuria       # sexuell (Wollust)
+luto          # Trauer/Tod
+lux           # physikalische Einheit, fachsprachlich
+machado       # Eigenname; seltenes Werkzeugwort
+machete       # Hiebwaffe; anstößig in Venezuela
+machismo      # gesellschaftspolitisch aufgeladen
+machista      # Vorwurf/Schimpfwort, politisch aufgeladen
+macro         # Kurzwort/fachsprachlich
+madame        # Fremdwort (Französisch)
+maestre       # archaisch (Ordensmeister)
+mafia         # Kriminalität
+mafioso       # Kriminalität
+mail          # Anglizismus
+malaga        # Eigenname (Ort/Wein)
+malaria       # schwere Krankheit
+maldita       # Fluch/derb
+maldito       # Fluch/derb, Schimpfwortliste
+malditos      # Fluch/derb
+malecon       # selten, vor allem Lateinamerika
+mali          # Eigenname (Staat)
+mall          # Anglizismus, nur Teile Lateinamerikas
+maltrato      # Gewalt/Misshandlung
+malware       # Fremdwort (Englisch)
+mames         # vulgär (no mames, Mexiko)
+mami          # umgangssprachlich, sexualisierte Anrede
+mamita        # umgangssprachlich, sexualisierte Anrede
+mana          # selten; religiös (maná)
+manager       # Anglizismus
+managua       # Eigenname (Stadt)
+mancera       # zu selten; Eigenname
+manco         # Behinderung, auch als Spott gebraucht
+mani          # nur Lateinamerika (Spanien: cacahuete)
+manija        # vor allem Lateinamerika (Spanien: manilla/tirador)
+manila        # Eigenname (Stadt)
+manolo        # Eigenname
+manuela       # Eigenname; vulgärer Slang (Masturbation)
+mapuche       # Volksname, regional (Chile/Argentinien)
+mara          # Bande (Mittelamerika); Tiername selten
+marcela       # Eigenname
+mari          # Eigenname
+maria         # Eigenname; Slang Marihuana (Spanien)
+mariana       # religiös (Jungfrau Maria); Eigenname
+mariano       # religiös (Jungfrau Maria); Eigenname
+marine        # Fremdwort, Militär
+marta         # Eigenname
+martin        # Eigenname
+martir        # Tod/Religion
+martires      # Tod/Religion
+martirio      # Tod/Folter
+marxismo      # Parteipolitik/Ideologie
+marxista      # Parteipolitik/Ideologie
+masacre       # Gewalt
+master        # Anglizismus, spanienlastig (Lateinamerika: maestría)
+mat           # Fremdwort
+mata          # töten (matar)
+matadero      # Schlachthof (Töten)
+matado        # töten (matar)
+matador       # Töten/Stierkampf
+matan         # töten (matar)
+matando       # töten (matar)
+matanza       # Gewalt (Gemetzel)
+mataron       # töten (matar)
+matarse       # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+matas         # töten (matar)
+match         # Anglizismus
+maten         # töten (matar)
+mateo         # Eigenname; Mate trinken nur Río de la Plata
+mausoleo      # Grabmal (Tod)
+maxi          # Kurzwort/Fremdwort
+maza          # Waffe (Keule)
+meca          # religiöser Eigenname; anstößig in Mexiko
+medina        # Eigenname; Fremdwort
+memo          # Schimpfwort (Spanien); Kurzwort
+mena          # selten (Erz); MENA abwertend in Spanien
+mercadeo      # vor allem Lateinamerika, Fachwort
+mercedes      # Eigenname/Marke
+merino        # selten/Fachwort (Schafrasse)
+mesero        # nur Lateinamerika (Spanien: camarero)
+mesias        # religiös
+mestizo       # Abstammungs-/Rassenbegriff
+meterme       # Verb+Klitikon
+meterse       # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+meterte       # Verb+Klitikon
+metete        # umgangssprachlich, selten
+miami         # Eigenname
+mica          # selten (Mineral); abwertend regional
+micro         # Kurzwort, regional verschieden (Mikrofon/Bus)
+mijo          # selten; umgangssprachlich 'mi hijo' in Lateinamerika
+milanesa      # vor allem Lateinamerika
+mili          # umgangssprachlich, nur Spanien (Wehrdienst)
+milicia       # Militär
+milicias      # Militär
+minerva       # Eigenname; selten
+mini          # Kurzwort/Präfix
+miranda       # Eigenname
+mirarse       # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+misil         # Waffe
+misiles       # Waffe
+miss          # Fremdwort (Englisch)
+mix           # Fremdwort (Englisch)
+mmm           # Interjektion
+mod           # Fremdwort
+modem         # Fremdwort, technisch
+moises        # Eigenname; Babykorb nur Spanien
+mojada        # sexuelle Konnotation; abwertend (Migranten)
+mojo          # kanarische Soße, sonst Anglizismus
+mola          # umgangssprachlich, nur Spanien (molar)
+mole          # mexikanisches Gericht; sonst fachsprachlich
+molotov       # Waffe (Brandsatz)
+monseñor      # kirchlicher Titel
+montero       # Eigenname; selten (Jäger)
+mora          # abwertend (Maurin) in Spanien
+morbo         # sexuelle/morbide Konnotation (Spanien)
+mordaza       # Knebel (Gewalt)
+morgue        # Leichenhalle (Tod)
+morirse       # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+moron         # Eigenname; selten
+morra         # Slang Mexiko; anstößig in Guatemala/Puerto Rico
+morro         # umgangssprachlich, regional verschieden; anstößig in Guatemala/Puerto Rico
+mortal        # Tod
+mortales      # Tod
+mortero       # Waffe (erste Lesart)
+mota          # Slang Marihuana (Mexiko); anstößig in Panama
+motel         # sexuelle Konnotation in Lateinamerika
+mouse         # Anglizismus, nur Lateinamerika (Spanien: ratón)
+moverse       # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+mudarse       # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+muera         # Tod (morir)
+mueran        # Tod (morir)
+muere         # Tod (morir)
+mueren        # Tod (morir)
+mueres        # Tod (morir)
+muero         # Tod (morir)
+muertas       # Tod
+muertes       # Tod
+muestreo      # Fachwort, selten
+multi         # Präfix/Kurzwort
+municion      # Waffe (Munition)
+muriendo      # Tod (morir)
+murieron      # Tod (morir)
+murio         # Tod (morir)
+mustang       # Fremdwort
+nacho         # Eigenname; Fremdwort (Snack)
+nafta         # nur Río de la Plata/Paraguay (Benzin)
+nahuatl       # selten (Sprachname)
+nano          # nur Valencia/Spanien
+napoleon      # Eigenname
+narco         # Drogen
+nasa          # Abkürzung (NASA); sonst selten
+natura        # selten/literarisch
+nava          # zu selten
+navaja        # Messer (Waffe)
+navarra       # regionaler Herkunftsname (Spanien)
+navarro       # regionaler Herkunftsname (Spanien)
+nazareno      # religiös; Eigenname
+nazca         # Eigenname (Kultur)
+nazis         # Politik/Gewalt
+nazismo       # Politik/Gewalt
+negarse       # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+nerd          # Anglizismus, abwertend
+neumonia      # schwere Krankheit
+newton        # Eigenname/Fachwort (Einheit)
+nice          # Fremdwort (Englisch)
+nick          # Anglizismus
+ninja         # Fremdwort
+nintendo      # Marke
+nirvana       # Fremdwort, religiös
+nobel         # Eigenname
+nodo          # fachsprachlich
+nomas         # nur Lateinamerika
+non           # selten
+nova          # fachsprachlich (Astronomie)
+obispado      # kirchlich, selten
+obrador       # selten, spanienlastig; Eigenname
+obregon       # Eigenname
+oca           # selten; regional (Spanien: Gans/Spiel)
+ocuparse      # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+off           # Fremdwort (Englisch)
+office        # Anglizismus, regional
+ojete         # vulgär (Anus) in Argentinien/Mexiko
+okey          # Anglizismus
+ole           # Interjektion (olé)
+olimpo        # Eigenname
+olivera       # selten; Eigenname
+olvidate      # Verb+Klitikon (Imperativ)
+omega         # Buchstabenname
+omiso         # nur in Wendung (caso omiso)
+omnibus       # selten, regional
+online        # Fremdwort (Englisch)
+open          # Fremdwort (Englisch)
+opio          # Droge
+oponerse      # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+oporto        # Eigenname (Stadt/Wein)
+ora           # archaisch (Konjunktion)
+orar          # religiös, selten
+orbe          # selten/literarisch
+orellana      # Eigenname
+orgasmo       # sexuell
+orgia         # sexuell
+orina         # Körperausscheidung, Schimpfwortliste
+orinar        # Körperausscheidung
+ortega        # Eigenname
+otero         # Eigenname; selten
+otrora        # literarisch, selten
+out           # Fremdwort (Englisch)
+ovarios       # vulgär ('Eier' für Frauen)
+oxford        # Eigenname
+pacheco       # Eigenname; Drogenslang (Mexiko/Venezuela)
+pack          # Anglizismus
+paco          # Eigenname; abwertend für Polizei (Chile)
+pagano        # Religion, selten
+pagarse       # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+page          # Fremdwort (Englisch)
+paja          # vulgär (Masturbation) in Spanien/Argentinien u.a.
+pal           # Kontraktion (pa'l)/selten
+palenque      # zu selten (Palisade), meist Eigenname (Palenque)
+palermo       # Eigenname (Stadt/Stadtteil)
+pamela        # meist Vorname; Hut nur in Spanien bekannt
+pana          # regional: Karibik „Kumpel“, sonst Cord – keine gemeinsame Lesart
+panama        # Eigenname (Land)
+pancho        # Vorname/Spitzname; „Hotdog“ nur Rioplatense, „gelassen“ nur Spanien umgangssprachlich
+pando         # zu selten
+panteon       # in Mexiko „Friedhof“ (Tod), sonst selten
+papal         # zu selten, kirchlich
+paper         # Fremdwort (Englisch)
+papi          # umgangssprachlicher Kosename, auch sexuelle Anrede
+papito        # umgangssprachlicher Kosename, auch anzügliche Anrede
+papua         # Eigenname/selten
+paraguay      # Eigenname (Land)
+pararse       # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+pario         # derb, vor allem aus dem Fluch „la puta que te parió“ bekannt
+parir         # derbes Register (neutral: dar a luz), Fluchkontext
+paris         # vosotros-Form (parís) bzw. Eigenname París
+party         # Fremdwort (Englisch)
+pas           # umgangssprachliche Kurzform von „para“
+pasarlo       # Verb+Klitikon
+pasarse       # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+pascal        # Fachbegriff/Eigenname
+pascual       # meist Eigenname, Adjektiv selten
+pastrana      # Eigenname, Lesart „Lüge“ selten
+patata        # nur Spanien (Lateinamerika: papa)
+patatas       # nur Spanien (Lateinamerika: papas)
+patricia      # Vorname
+patricio      # meist Vorname, „Patrizier“ selten
+paula         # Vorname
+paulo         # Vorname
+pavon         # zu selten/Eigenname
+pedofilo      # Sexualverbrechen, nicht für ruhiges Rätsel
+peli          # umgangssprachliche Kurzform
+pelotuda      # vulgäre Beleidigung (Rioplatense, Andenländer)
+pelotudo      # vulgäre Beleidigung (Rioplatense, Andenländer)
+pendeja       # vulgäre Beleidigung (Mexiko, Mittelamerika u.a.)
+pendejos      # vulgäre Beleidigung (Mexiko, Mittelamerika u.a.)
+pepa          # regional Lateinamerika, vulgär in Venezuela
+pepe          # Vorname/Spitzname
+pepsi         # Markenname
+peque         # umgangssprachliche Kurzform
+perderse      # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+perfect       # Fremdwort (Englisch)
+perico        # Drogenslang (Kokain) in Spanien/Kolumbien, sonst regional
+pesame        # Beileid (Tod/Trauer)
+petra         # Vorname
+petro         # Eigenname
+pib           # Abkürzung (PIB) bzw. Regionalwort Yucatán
+pibes         # nur Rioplatense (Lunfardo „Kinder“)
+pileta        # nur Rioplatense in dieser Bedeutung (Schwimmbad)
+pillado       # umgangssprachlich, v.a. Spanien
+pillar        # umgangssprachlich, v.a. Spanien (Mexiko unüblich)
+pinches       # vulgär in Mexiko/Mittelamerika
+pineda        # Eigenname (Nachname)
+ping          # Fremdwort/Lautmalerei
+pio           # Lautmalerei bzw. Eigenname (Pío)
+piola         # nur Rioplatense („cool“), sonst selten
+pis           # umgangssprachlich (Urin)
+pisco         # regional (Andenländer), alkoholisches Getränk
+pistolas      # Waffe
+pita          # zu selten; Nähe zu vulgärem „pito“
+piñera        # Eigenname (Nachname)
+place         # gehoben/veraltet (placer als Verb), auch englisch
+planilla      # nur Lateinamerika (Formular/Lohnliste)
+platica       # plática/platicar v.a. Mexiko/Mittelamerika
+platon        # Eigenname (Platón)
+play          # Fremdwort (Englisch)
+playboy       # Fremdwort, sexuelle Konnotation
+podcast       # Fremdwort (Englisch)
+podes         # voseo-Form (podés)
+pokemon       # Markenname
+poli          # umgangssprachliche Kurzform (Polizist)
+polis         # selten (griech. Polis) bzw. umgangssprachlicher Plural von poli
+polvora       # Schießpulver (Waffen/Sprengstoff)
+polvos        # Plural steht vor allem für die vulgäre Lesart (echar un polvo, Spanien/Argentinien)
+ponerme       # Verb+Klitikon
+ponernos      # Verb+Klitikon
+ponerse       # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+ponerte       # Verb+Klitikon
+ponte         # Verb+Klitikon (pon+te)
+pony          # Fremdwort (spanisch: poni)
+pool          # Fremdwort (Englisch)
+pop           # Fremdwort (Englisch)
+porno         # Sexualität/Pornografie
+porro         # Droge (Joint), in Mexiko Schläger
+portillo      # meist Eigenname (Nachname), sonst selten
+pos           # umgangssprachlich für „pues“ (Mexiko)
+post          # Fremdwort/Präfix
+postear       # Anglizismus, umgangssprachlich
+potosi        # Eigenname (Potosí)
+praxis        # zu selten/fachsprachlich
+pre           # Präfix, umgangssprachlich
+premier       # Fremdwort
+premium       # Fremdwort (Englisch)
+presi         # umgangssprachliche Kurzform
+press         # Fremdwort (Englisch)
+prieto        # Mexiko: „dunkelhäutig“ (für Personen heikel), Spanien „eng“ – regional
+prime         # Fremdwort (Englisch); primar-Subjunktiv selten
+prior         # zu selten (kirchlich)
+procesal      # fachsprachlich (Recht)
+profe         # umgangssprachliche Kurzform
+promo         # umgangssprachliche Kurzform
+proxy         # Fremdwort (Englisch), fachsprachlich
+psicosis      # schwere psychische Krankheit
+pub           # Fremdwort (Englisch)
+puebla        # vor allem Eigenname (Puebla), Verbform von poblar selten
+pum           # Lautmalerei (Schuss)
+punk          # Fremdwort (Englisch)
+puñal         # Waffe (Dolch)
+puñalada      # Gewalt (Messerstich)
+puñetazo      # Gewalt (Faustschlag)
+pyme          # Abkürzung (PYME)
+pymes         # Abkürzung (PYMES)
+quedarme      # Verb+Klitikon
+quedarse      # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+quedarte      # Verb+Klitikon
+quedate       # Verb+Klitikon (quédate)
+quejarse      # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+quijote       # Eigenname (Don Quijote)
+quilombo      # nur Rioplatense (Durcheinander; ursprünglich Bordell)
+quintana      # Eigenname (Nachname), sonst selten/regional
+quitarse      # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+rabino        # religiöse Gruppenzugehörigkeit, selten
+rabo          # vulgär in Spanien (Penis); sonst cola üblich
+racial        # heikles Thema (Rasse)
+racismo       # heikles Thema (Rassismus), nicht für ruhiges Rätsel
+racista       # Beschimpfung/heikles Thema
+racistas      # Beschimpfung/heikles Thema
+rada          # zu selten
+rafa          # Vorname (Kurzform)
+raja          # vulgär in Chile/Spanien
+rally         # Fremdwort (Englisch)
+rambla        # regional (Spanien/Uruguay), sonst unbekannt
+ramon         # Vorname
+random        # Anglizismus, umgangssprachlich
+ranking       # Fremdwort (Englisch)
+rap           # Fremdwort (Englisch)
+rapto         # Entführung (Verbrechen)
+rating        # Fremdwort (Englisch)
+ratio         # Fremdwort/fachsprachlich
+reading       # Fremdwort (Englisch)
+reality       # Fremdwort (Englisch)
+recamara      # nur Mexiko/Mittelamerika (Schlafzimmer), sonst Waffenteil
+rededor       # veraltet (heute: alrededor)
+redentor      # religiös, selten
+reggae        # Fremdwort
+rehen         # Geiselnahme (Gewalt/Verbrechen)
+rehenes       # Geiselnahme (Gewalt/Verbrechen)
+reirse        # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+relax         # Fremdwort (Englisch)
+remake        # Fremdwort (Englisch)
+remera        # nur Rioplatense (T-Shirt)
+remix         # Fremdwort (Englisch)
+rendirse      # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+resort        # Fremdwort (Englisch)
+retro         # Modewort/Kurzform, selten
+reunirse      # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+revolver      # Anzeige revólver = Waffe
+rial          # zu selten (Währung)
+rifle         # Waffe
+right         # Fremdwort (Englisch)
+rin           # nur Lateinamerika (Felge), sonst selten
+ring          # Fremdwort (Englisch)
+rioja         # Eigenname (Region/Wein)
+river         # Fremdwort/Eigenname (Club)
+rivera        # meist Eigenname (Nachname), Lesart „Bach“ selten
+roa           # Eigenname, sonst selten
+rob           # zu selten/Fremdwort
+robledo       # Eigenname, sonst selten
+rocha         # Eigenname, sonst regional Chile
+rodrigo       # Vorname
+rom           # Volksgruppenbezeichnung bzw. Abkürzung (ROM)
+roma          # Eigenname (Rom); Adjektiv roma selten
+romperse      # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+roque         # Eigenname, Schachbegriff selten
+ros           # zu selten (Militärmütze)
+rose          # seltene Verbform, auch englisch
+rosita        # Vorname/Diminutiv
+rouge         # Fremdwort (Französisch)
+round         # Fremdwort (Englisch)
+router        # Fremdwort (Englisch)
+royal         # Fremdwort (Englisch)
+rubro         # nur Lateinamerika (Branche/Posten)
+rugby         # Fremdwort
+runner        # Fremdwort (Englisch)
+running       # Fremdwort (Englisch)
+rus           # zu selten/Eigenname
+rush          # Fremdwort (Englisch)
+sabina        # Vorname, Pflanzenname selten
+sable         # Waffe
+sacarse       # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+sacro         # selten/fachsprachlich
+sakura        # Fremdwort (Japanisch)
+salcedo       # Eigenname, sonst selten
+salirse       # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+saltillo      # Eigenname (Stadt in Mexiko) bzw. fachsprachlich
+salvarse      # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+sam           # Fremdwort (koreanisches Gericht)
+sancho        # nur Mexiko (Schwein/Liebhaber), sonst Eigenname
+saquear       # Plünderung, Gewalt
+saqueo        # Plünderung, Gewalt
+sara          # Eigenname/Ethnie
+satan         # religiös/düster, Eigenname
+satanas       # religiös/düster, Eigenname
+scout         # Fremdwort (Englisch)
+script        # Fremdwort (Englisch)
+secesion      # zu selten/politisch
+secta         # religiöse Gruppe, negativ besetzt
+selfie        # Fremdwort (englische Schreibung)
+semen         # sexuell
+semi          # umgangssprachliche Kürzung
+sen           # zu selten/fachsprachlich (Pflanze, Münze)
+sena          # zu selten (Würfelsechs), sonst Eigenname (Seine)
+sendos        # zu selten/gehoben
+senior        # Fremdwort (Englisch/Latein)
+sentarse      # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+sentirme      # Verb+Klitikon
+sentirse      # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+sentirte      # Verb+Klitikon
+seo           # regional (Aragón: Kathedrale)/umgangssprachlich für señor
+sepulcro      # Grab, Tod
+serna         # zu selten/veraltet
+server        # Fremdwort (Englisch)
+set           # Fremdwort (Englisch)
+sexenio       # nur Mexiko (Amtszeit des Präsidenten), Politik
+sexista       # Sexualbezug/heikles Thema
+sexos         # Sexualbezug
+sexuales      # sexuell
+sexy          # Fremdwort, sexuell
+share         # Fremdwort (Englisch)
+sheriff       # Fremdwort (Englisch)
+shin          # Buchstabenname (Hebräisch)
+shock         # Fremdwort (Englisch)
+shopping      # Fremdwort, nur Argentinien
+short         # Fremdwort (Englisch)
+shorts        # Fremdwort (Englisch)
+shot          # Fremdwort (Englisch)
+show          # Fremdwort (Englisch)
+shows         # Fremdwort (Englisch)
+sic           # Latein, Zitiervermerk
+sida          # schwere Krankheit
+sii           # Abkürzung (Logik)
+silva         # zu selten (Gedichtform), sonst Eigenname
+sim           # Fremdwort/Eigenname
+simon         # Eigenname, sonst nur Mittelamerika/Mexiko (Pferdedroschke, „ja“)
+sinagoga      # Religion als Gruppenidentität
+single        # Fremdwort (Englisch)
+singles       # Fremdwort (Englisch)
+sito          # veraltet/amtssprachlich
+situarse      # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+skate         # Fremdwort (Englisch)
+sketch        # Fremdwort (Englisch)
+skin          # Fremdwort (Englisch)
+smart         # Fremdwort (Englisch)
+smash         # Fremdwort (Englisch)
+sms           # Abkürzung
+snow          # Fremdwort (Englisch)
+soft          # Fremdwort (Englisch)
+software      # Fremdwort (Englisch)
+solana        # zu selten, meist Eigenname
+solano        # zu selten (Pflanze/Wind), meist Eigenname
+sor           # Ordenstitel, religiös, selten
+soriano       # zu speziell (Herkunft aus Soria)
+soto          # zu selten (Gehölz), meist Eigenname
+soul          # Fremdwort (Englisch)
+soya          # regional (Mexiko/Mittelamerika/Karibik; sonst soja)
+spa           # Fremdwort (Englisch)
+spam          # Fremdwort (Englisch)
+spider        # Fremdwort (Englisch)
+spin          # Fremdwort (Englisch)
+spoiler       # Fremdwort (Englisch)
+sport         # Fremdwort (Englisch)
+sports        # Fremdwort (Englisch)
+spot          # Fremdwort (Englisch)
+squad         # Fremdwort (Englisch)
+staff         # Fremdwort (Englisch)
+stan          # Fremdwort, Slang
+stand         # Fremdwort (Englisch)
+still         # Fremdwort (Englisch)
+stock         # Fremdwort (Englisch)
+stop          # Fremdwort (Englisch)
+stream        # Fremdwort (Englisch)
+strike        # Fremdwort (Englisch)
+sub           # Präfix/Kürzel (sub-20)
+subirse       # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+sucre         # Eigenname (Stadt), veraltete Währung
+sud           # nur als Präfix/Kürzel gebräuchlich
+sugar         # Fremdwort (Englisch)
+suicida       # Suizid, Tod
+suicido       # Suizid, Tod
+suite         # Fremdwort (Französisch)
+sumarse       # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+surf          # Fremdwort (Englisch)
+sushi         # Fremdwort (Japanisch)
+swing         # Fremdwort (Englisch)
+tabasco       # Eigenname (Bundesstaat, Marke)
+tablet        # Fremdwort (Englisch; spanisch tableta)
+tac           # Lautmalerei bzw. Abkürzung (TAC)
+tai           # Fremdwort/Eigenname (Volk)
+talavera      # Eigenname (Ort/Keramik)
+tambo         # nur Lateinamerika (Rioplatense/Mexiko), selten
+tanga         # anzüglich (Unterwäsche)
+tao           # Fremdwort, zu selten
+tape          # regional (Mittelamerika) bzw. Anglizismus, abwertende Herkunftsbezeichnung
+tarado        # Beleidigung (abwertend)
+target        # Fremdwort (Englisch)
+tarro         # regional (Spanien; Kuba: Hörner/Ehebruch)
+tas           # zu selten/fachsprachlich (Amboss)
+tata          # umgangssprachlich/regional, als anstößig markiert
+tea           # zu selten (Fackel), Verwechslung mit Englisch
+teen          # Fremdwort (Englisch)
+tell          # Fremdwort/Fachwort
+tempo         # Fremdwort (Italienisch, Musik)
+tenerse       # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+ter           # Latein/Fachwort
+test          # Fremdwort (Englisch)
+thriller      # Fremdwort (Englisch)
+ticket        # Fremdwort (Englisch; spanisch tique)
+time          # seltene Form von timar (betrügen), als Englisch verwechselbar
+times         # seltene Form von timar (betrügen), als Englisch verwechselbar
+timo          # regional (Spanien: Betrug), sonst fachsprachlich (Thymus)
+tip           # Fremdwort (Englisch)
+tipa          # abwertend (Argentinien/Mittelamerika), sonst Baumname
+tips          # Fremdwort (Englisch)
+tirador       # Schütze (Waffe/Gewalt)
+tirarse       # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+tiroteo       # Schießerei (Waffe/Gewalt)
+tito          # umgangssprachlich/regional (Spanien), sonst Eigenname
+toc           # Lautmalerei
+tomarse       # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+ton           # nur in fester Wendung (sin ton ni son), zu selten
+top           # Fremdwort (Englisch)
+torero        # Stierkampf (Gewalt gegen Tiere), umstritten
+torpedo       # Waffe
+torturar      # Gewalt (Folter)
+torturas      # Gewalt (Folter)
+touch         # Fremdwort (Englisch)
+tour          # Fremdwort (Französisch/Englisch)
+toy           # umgangssprachliche Kurzform von estoy
+track         # Fremdwort (Englisch)
+tranqui       # umgangssprachliche Kürzung, regional
+trans         # Kurzform/Präfix, heikles Identitätsthema
+trap          # Fremdwort (Englisch)
+tratarse      # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+travesti      # Schimpfwortliste, Sexualbezug
+tri           # nur Mexiko (Nationalmannschaft), Präfix
+trinidad      # religiös (Dreifaltigkeit), meist Eigenname
+trip          # Fremdwort, Drogenbezug
+troy          # Fremdwort/Eigenname
+trust         # Fremdwort (Englisch)
+tsunami       # Fremdwort (Japanisch), Katastrophe
+tuit          # Neologismus nach Marke (Twitter)
+tuitear       # Neologismus nach Marke (Twitter)
+tuiteo        # Neologismus nach Marke (Twitter)
+tuitero       # Neologismus nach Marke (Twitter)
+tuits         # Neologismus nach Marke (Twitter)
+tula          # vulgär in Chile/Spanien
+tumbas        # Grab, Tod
+tumblr        # Markenname
+tumor         # schwere Krankheit
+tumores       # schwere Krankheit
+tweet         # Fremdwort (Englisch), Marke
+tweets        # Fremdwort (Englisch), Marke
+ucrania       # praktisch nur Eigenname (Land; Adjektiv: ucraniana)
+uds           # Abkürzung
+ultra         # Präfix bzw. politisch (Extremist/Hooligan)
+unete         # Imperativ+Klitikon
+unirse        # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+usarse        # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+uta           # nur Mexiko/Peru, Krankheit, selten
+vaginal       # sexuell/anatomisch
+vaina         # derb/umgangssprachlich in Karibik und Andenländern
+val           # zu selten/fachsprachlich, meist Eigenname
+valdivia      # Eigenname
+valencia      # Eigenname (Stadt), sonst Fachwort (Chemie)
+vallejo       # Eigenname
+vargas        # Eigenname (Nachname)
+vascular      # fachsprachlich (Medizin)
+vaticano      # Eigenname, Religion
+vease         # Verb+Klitikon (Verweisformel)
+vegas         # meist Eigenname (Las Vegas)
+venderse      # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+vengarse      # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+venus         # Eigenname (Planet/Göttin)
+verdugo       # Henker, Tod
+verme         # Verb+Klitikon (ver+me), Nomen „Wurm“ selten
+vernos        # Verb+Klitikon
+vero          # zu selten (Heraldik)
+veronica      # Eigenname, sonst Fachwort (Pflanze/Stierkampf)
+verse         # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+versus        # Latein/Anglizismus
+verte         # Verb+Klitikon
+vestirse      # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+vete          # Imperativ+Klitikon (ve+te)
+vialidad      # regional (Mexiko/Venezuela), amtssprachlich
+vicario       # kirchliches Amt, selten
+vice          # Präfix/Kürzung
+victima       # Gewalt/Unglück
+victimas      # Gewalt/Unglück
+villar        # zu selten, meist Eigenname
+vintage       # Fremdwort (Englisch)
+viola         # auch Verbform von violar (vergewaltigen)
+violado       # vergewaltigt (Gewalt/sexuell)
+violador      # Vergewaltiger (Gewalt/sexuell)
+violenta      # Gewalt
+violento      # Gewalt
+violo         # vergewaltigte (Gewalt/sexuell)
+vip           # Abkürzung/Fremdwort
+virgen        # Sexualbezug bzw. religiös (Virgen María)
+virgenes      # Sexualbezug bzw. religiös
+virgo         # Sternzeichen, umgangssprachlich sexuell (Jungfräulichkeit)
+viruela       # schwere Krankheit
+vis           # Latein, nur in festen Wendungen
+vito          # zu selten (andalusischer Tanz), Eigenname
+vodka         # Fremdwort, Spirituose
+volverse      # Infinitiv mit angehängtem se (Regel: Verbform mit Pronomen nie Ziel, einheitlich über alle Teile)
+vuestra       # vosotros-Form (nur Spanien)
+vuestras      # vosotros-Form (nur Spanien)
+vuestro       # vosotros-Form (nur Spanien)
+vuestros      # vosotros-Form (nur Spanien)
+was           # Fremdwort/Slang (WhatsApp)
+web           # Fremdwort (Englisch)
+weber         # Fremdwort/Fachwort (Einheit)
+webs          # Fremdwort (Englisch)
+website       # Fremdwort (Englisch)
+western       # Fremdwort (Englisch)
+wey           # nur Mexiko, Slang, abwertend
+whisky        # Fremdwort, Spirituose
+wifi          # Fremdwort/Marke
+wiki          # Fremdwort
+won           # Fremdwort (Währung), Euphemismus für huevón
+xalapa        # Eigenname
+xbox          # Markenname
+xix           # römische Zahl
+yang          # Fremdwort (Chinesisch)
+yankee        # Fremdwort, abwertend
+yen           # Fremdwort (Währung)
+yerba         # regional (Rioplatense: Mate; sonst hierba)
+yin           # Fremdwort (Chinesisch)
+yogurt        # Fremdschreibung (spanisch yogur)
+youtuber      # Fremdwort/Marke
+yuan          # Fremdwort (Währung)
+yuri          # Fremdwort (Japanisch), Eigenname
+zapata        # Eigenname, sonst fachsprachlich (Bremsbacke)
+zarzuela      # spanienspezifisch, selten
+zas           # Lautmalerei
+zen           # Fremdwort, Religion
+zoom          # Fremdwort (Englisch)
+zorrilla      # abwertend (zorra), selten, Eigenname
+zumo          # nur Spanien (Lateinamerika: jugo)
+
+# --- Formen gesperrter Lemmata, die als Form eines zweiten Lemmas gültig bleiben (Doppelgänger-Regel),
+# aber nie verlangt werden sollen (geprüft aus out/diag/sperr-doppelgaenger.tsv, 2026-11-19)
+cagada        # vulgär „Mist, Scheiße“ (Partizip von cagar)
+cagado        # dito
+jodido        # vulgär (Partizip von joder)
+jodida        # dito
+jodidos       # dito
+wea           # vulgär (Chile, „huevada“)
+weas          # dito
+
+# --- nach der Codex-Prüfung (2026-11-19), Durchgang 2
+pelotas       # Taburegel: allein stehend in Spanien und am Río de la Plata sehr häufig „Hoden“ (en pelotas); Singular pelota bleibt Ziel
+super         # umgangssprachlich (súper), Kurzwort
+estadia       # Lateinamerika; Spanien sagt estancia
+acosta        # seltene Lesart; acostar heißt acuesta
+barbarie      # Gräueltaten, kein ruhiges Pflichtwort
+necio         # Beleidigung
+inepto        # Beleidigung
+idiotez       # abwertend
+bolas         # wie pelotas: allein stehend sehr häufig „Hoden“ (en bolas = nackt, Spanien)
+ponerle       # poner + le: Verbform mit Pronomen, nie Ziel (seit der Freigabe aus der stillen Sperre gültig)

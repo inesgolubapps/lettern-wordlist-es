@@ -1,0 +1,23 @@
+# Erste Lesart (Lemma und Wortart der ersten ziel.tsv-Zeile) von Hand festlegen, wo die Reihenfolge
+# (Grundform mit neutraler Lesart, dann häufigeres Lemma) eine unpassende wählt (Codex-Prüfung
+# 2026-11-19). Wirkt nur auf die Reihenfolge, nie darauf, ob eine Form Ziel ist.
+# Format: form  lemma[:wortart]  # Grund
+guapo         guapo:adj      # nicht „arrowroot“
+abierta       abierto:adj    # Adjektiv/Partizip, nicht eine seltene Nomen-Lesart
+solicito      solicitar:verb # show solicitó
+curo          curar:verb     # nicht Kurland
+gales         gales:adj      # galés
+mia           mio:pron       # mía, nicht der japanische Tempel
+rodo          rodar:verb     # rodó
+estes         estar:verb     # estés
+comete        cometer:verb   # comete (cometer), nicht cómete
+anden         anden:noun     # andén
+opera         opera:noun     # ópera
+anuncio       anuncio:noun
+envio         envio:noun
+logro         logro:noun
+continuo      continuo:adj
+cesar         cesar:verb     # Infinitiv „aufhören“ (show cesar), nicht der Titel césar
+tardo         tardar:verb    # show tardó
+supero        superar:verb   # show superó
+libero        liberar:verb   # show liberó
